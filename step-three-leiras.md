@@ -31,7 +31,7 @@ module.exports = dbConnect;
 
 ```
 PORT=3500
-DBSTRING=mongodb+srv://pepe:pepe@webshop.3pmpvmm.mongodb.net/Konyvesbolt
+DBSTRING=mongodb+srv://.../Konyvesbolt
 ```
 
 ### `server.js` állomány módosítása:
